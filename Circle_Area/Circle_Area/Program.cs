@@ -10,6 +10,14 @@ namespace Circle_Area
     {
         static void Main(string[] args)
         {
+            //Write program to enter a radius r(real number) 
+            //and print the area of the circle with exactly 12 digits after the decimal point. 
+
+            double r = double.Parse(Console.ReadLine());
+
+            double area = Math.PI * r * r;
+
+            Console.WriteLine("{0:f12}",area);
         }
     }
 }
