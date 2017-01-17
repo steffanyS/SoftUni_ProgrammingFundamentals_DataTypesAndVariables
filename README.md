@@ -1,0 +1,2 @@
+# SoftUni_ProgrammingFundamentals_DataTypesAndVariables
+data types and variables exercises
